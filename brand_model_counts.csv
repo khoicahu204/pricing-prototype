@@ -1,0 +1,580 @@
+brand,model,count
+Ford,Ranger,15719
+Toyota,Innova,14430
+Toyota,Vios,10379
+Toyota,Fortuner,9611
+Kia,Morning,8733
+Hyundai,Accent,7477
+Toyota,Camry,7406
+Ford,Everest,7396
+Mitsubishi,Xpander,7075
+Mercedes Benz,C Class,6743
+Hyundai,Grand i10,6739
+Honda,City,5517
+Mazda,3,5170
+Ford,Transit,5130
+Mazda,CX 5,4479
+Hyundai,Santa Fe,4446
+Honda,CR V,3973
+Ford,EcoSport,3933
+Hyundai,Tucson,3745
+Toyota,Corolla Altis,3476
+Kia,Cerato,3431
+Honda,Civic,3122
+Mercedes Benz,E Class,3102
+Ford,Focus,2835
+Kia,Carnival,2813
+Kia,Sorento,2794
+Chevrolet,Spark,2744
+Mercedes Benz,GLC,2711
+Hyundai,Elantra,2706
+Mitsubishi,Attrage,2640
+Chevrolet,Cruze,2602
+Kia,K3,2569
+Kia,Sedona,2537
+Vinfast,Lux A2.0,2455
+Suzuki,XL 7,2381
+Toyota,Corolla Cross,2193
+Toyota,Yaris,2145
+MG,5,2097
+Vinfast,Fadil,2018
+Chevrolet,Captiva,1893
+Kia,Carens,1866
+Mitsubishi,Outlander,1852
+Ford,Escape,1843
+Mitsubishi,Xpander Cross,1820
+BMW,3 Series,1762
+Toyota,Veloz,1731
+Hãng khác,Dòng khác,1687
+Mazda,2,1662
+Mazda,6,1662
+Peugeot,3008,1656
+Nissan,Navara,1597
+Kia,Seltos,1591
+Mercedes Benz,GLC Class,1582
+Mitsubishi,Triton,1556
+Suzuki,Ertiga,1500
+Mazda,BT 50,1460
+Mazda,CX 8,1433
+Ford,Fiesta,1423
+Lexus,RX,1399
+Chevrolet,Colorado,1371
+Suzuki,Swift,1369
+Mitsubishi,Jolie,1349
+Ford,Territory,1328
+Hyundai,Stargazer,1318
+Toyota,Wigo,1303
+Daewoo,Matiz,1287
+Hyundai,Creta,1220
+Toyota,Zace,1207
+Kia,Sonet,1205
+Toyota,Avanza,1174
+Kia,Rondo,1171
+Kia,Soluto,1157
+MG,ZS,1156
+Mercedes Benz,S Class,1123
+Hyundai,Kona,1104
+Toyota,Hiace,1096
+Daewoo,Lacetti,1085
+Vinfast,Lux SA2.0,1061
+Mitsubishi,Pajero Sport,1052
+Honda,Accord,1052
+Honda,Brio,1049
+BMW,5 Series,1026
+Suzuki,Dòng khác,1006
+Toyota,Rush,1005
+Toyota,Raize,995
+Hyundai,Dòng khác,964
+Kia,Rio,957
+Kia,Sportage,941
+Vinfast,VF5,923
+Kia,K5,907
+Chevrolet,Aveo,876
+Vinfast,VF8,835
+Toyota,Hilux,833
+Lexus,ES,830
+Honda,BR-V,817
+Toyota,Land Cruiser,810
+Peugeot,2008,764
+Peugeot,5008,719
+Ford,Tourneo,670
+Mitsubishi,Pajero,657
+Honda,HR-V,650
+Nissan,X trail,626
+Volkswagen,Tiguan,616
+Toyota,Corolla,592
+Toyota,Sienna,580
+Kia,Forte,575
+Mercedes Benz,Sprinter,554
+Mitsubishi,Grandis,551
+Audi,Q7,543
+Toyota,Land Cruiser Prado,538
+Hyundai,Sonata,526
+Volkswagen,Teramont,524
+Hyundai,Getz,523
+Hyundai,Avante,520
+Ford,Mondeo,511
+Hyundai,Grand Starex,508
+Mercedes Benz,CLA Class,500
+Daewoo,Lanos,499
+Toyota,Venza,490
+Isuzu,Dmax,488
+LandRover,Range Rover,481
+Vinfast,VFe34,475
+Hyundai,Starex,445
+Kia,Dòng khác,440
+Subaru,Forester,439
+Mercedes Benz,Dòng khác,423
+Mitsubishi,Mirage,419
+Ford,Explorer,416
+Ford,Dòng khác,411
+Porsche,Cayenne,411
+Daewoo,Gentra,404
+Porsche,Macan,389
+Porsche,Panamera,386
+Hyundai,i20,380
+Ford,Laser,379
+Hyundai,Custin,375
+Nissan,Almera,374
+Nissan,Sunny,372
+Mazda,CX-30,360
+Lexus,LX,357
+Mini,Cooper,357
+Lexus,GX,353
+Toyota,Veloz Cross,348
+Hyundai,Genesis,345
+Volkswagen,Polo,345
+Suzuki,Celerio,344
+Chevrolet,Trailblazer,343
+Suzuki,Vitara,342
+Isuzu,Hi lander,335
+Mazda,CX 3,329
+Toyota,Dòng khác,326
+Lexus,LS,323
+Daewoo,Nubira,320
+Hyundai,Solati,317
+Kia,CD5,310
+Hyundai,i30,310
+LandRover,Range Rover Evoque,307
+Suzuki,Ciaz,302
+Audi,A6,287
+Audi,Q5,287
+BMW,X6,286
+Mazda,323,285
+BMW,4 Series,275
+BMW,Dòng khác,274
+BMW,X3,272
+Audi,A4,272
+Mitsubishi,Lancer,253
+Nissan,Teana,251
+Isuzu,Mu X,250
+Mercedes Benz,GL Class,245
+Kia,Optima,242
+Toyota,Prado,241
+Volkswagen,Touareg,234
+Chevrolet,Vivant,232
+Honda,Jazz,232
+Mercedes Benz,A Class,230
+LandRover,Range Rover Sport,229
+Lexus,GS,227
+BMW,X5,225
+Mercedes Benz,V Class,222
+Mercedes Benz,GLB,220
+Mercedes Benz,GLS Class,218
+Chevrolet,Orlando,217
+Toyota,RAV4,216
+Toyota,Highlander,214
+Mazda,626,213
+Mercedes Benz,GLE Class,209
+Toyota,Previa,209
+MG,Dòng khác,201
+Mercedes Benz,ML Class,200
+Vinfast,1083,199
+Mercedes Benz,GLA Class,199
+Vinfast,Dòng khác,194
+Toyota,Corona,192
+Mercedes Benz,GLK Class,189
+Hyundai,Terracan,188
+Chevrolet,Lacetti,188
+Audi,A5,187
+Hyundai,Veloster,179
+Mitsubishi,Dòng khác,179
+Kia,Pride,176
+BMW,X1,175
+Isuzu,Dòng khác,175
+Volvo,S90,172
+Kia,Spectra,164
+Audi,A7,161
+Vinfast,VF9,160
+Kia,Picanto,157
+Lexus,IS,155
+Toyota,4 Runner,154
+Nissan,X Terra,153
+BMW,Z4,148
+Mazda,Premacy,146
+Mercedes Benz,MB,146
+Audi,Q8,140
+Mazda,5,140
+Volvo,XC90,139
+Mazda,CX 9,138
+Bentley,Continental,138
+Toyota,Innova Cross,135
+Mitsubishi,Zinger,134
+Honda,Dòng khác,131
+Mercedes Benz,Maybach,131
+BMW,7 Series,129
+Nissan,Bluebird,127
+Lexus,NX,122
+Haval,H6,118
+Honda,Odyssey,116
+Volvo,XC60,115
+Toyota,Alphard,112
+Hyundai,Palisade,110
+Fiat,Siena,105
+Toyota,Crown,102
+Daewoo,Dòng khác,102
+Acura,MDX,98
+Suzuki,APV,98
+Nissan,Dòng khác,96
+Mitsubishi,Outlander Sport,96
+Ssangyong,Musso,95
+Nissan,Grand livina,93
+Hyundai,Verna,92
+Subaru,Outback,90
+Peugeot,408,89
+Nissan,Tiida,88
+Maserati,Levante,84
+Toyota,Aygo,84
+Toyota,Cressida,83
+Ford,Mustang,83
+Daewoo,Magnus,83
+Jeep,Wrangler,83
+Mitsubishi,Grunder,82
+Mercedes Benz,AMG,82
+Hyundai,Click,79
+Suzuki,Grand vitara,76
+Hyundai,H 1,76
+Smart,Fortwo,76
+Fiat,500,75
+Daihatsu,Dòng khác,74
+Daihatsu,Citivan,73
+Mercedes Benz,R Class,72
+BMW,1 Series,72
+Vinfast,3,72
+Mazda,Dòng khác,71
+Ford,Escort,70
+Mini,Dòng khác,70
+Volkswagen,T-Cross,70
+Chevrolet,Trax,69
+Porsche,Cayman,68
+Daewoo,GentraX,66
+Ford,F 150,66
+Volkswagen,Scirocco,66
+Zotye,Dòng khác,65
+Volkswagen,Virtus,64
+LandRover,Discovery,64
+Nissan,Kicks,64
+Ssangyong,Stavic,63
+Bentley,Flying Spur,63
+Chevrolet,Matiz,63
+LandRover,Defender,62
+Volkswagen,Beetle,62
+Jeep,A2,62
+Porsche,911,62
+Daihatsu,Terios,61
+Toyota,Avalon,61
+Fiat,Albea,61
+Infiniti,FX,60
+Kia,Cerato Koup,58
+Volkswagen,Passat,58
+Daewoo,Cielo,58
+Hyundai,Veracruz,58
+Mercedes Benz,CLS Class,57
+LandRover,Range Rover Velar,54
+Audi,TT,54
+Jeep,CJ,54
+Renault,Duster,54
+Lifan,520,53
+Asia,Dòng khác,52
+Jaguar,XF,52
+Volvo,S60,51
+Isuzu,Trooper,49
+BMW,6 Series,49
+Nissan,Livina,49
+Hyundai,Azera,48
+Audi,A8,48
+Hyundai,Universe,47
+Suzuki,Wagon R+,47
+Jeep,Dòng khác,46
+Mitsubishi,Galant,46
+Toyota,Celica,45
+Ssangyong,Rexton,45
+Volkswagen,Dòng khác,45
+Lexus,RC,44
+Acura,RDX,44
+SYM,Dòng khác,44
+Isuzu,Pick up,44
+Ford,Contour,44
+Mercedes Benz,SLK Class,44
+Hyundai,Coupe,42
+Suzuki,Aerio,42
+Hyundai,Mighty,42
+Volkswagen,New Beetle,42
+BMW,X4,42
+Acura,ZDX,42
+Ferrari,Dòng khác,41
+Daewoo,Espero,41
+BMW,X7,41
+Mercedes Benz,CLK Class,40
+Lexus,Dòng khác,40
+Audi,A3,40
+Porsche,718,39
+Lexus,LM350,38
+Nissan,Terrano,38
+Hyundai,County,37
+Peugeot,Dòng khác,37
+Gaz,Gazele,37
+Peugeot,Traveller,37
+Chery,QQ3,35
+Citroen,Dòng khác,34
+Chevrolet,Camaro,34
+Nissan,Cedric,34
+Toyota,86,33
+Hyundai,Tuscani,33
+Nissan,Murano,33
+Kia,Soul,33
+Peugeot,208,32
+Mini,Clubman,32
+Luxgen,7 SUV,32
+Maybach,Dòng khác,32
+Volvo,XC40,31
+Daewoo,Leganza,31
+Mercedes Benz,G Class,31
+Chevrolet,Dòng khác,31
+Mekong,Pronto,31
+SYM,V5,30
+Hyundai,Galloper,30
+MG,HS,30
+Infiniti,QX60,30
+BMW,2 Series,29
+Peugeot,405,29
+Luxgen,M7,29
+Audi,Q2,28
+Fiat,Tempra,27
+Hyundai,Libero,27
+Chevrolet,Chevyvan,27
+Peugeot,505,27
+Suzuki,Alto,27
+Mekong,Premio,26
+Luxgen,5,24
+Mazda,Atenza,24
+Rolls Royce,Ghost,24
+Kia,Quoris,24
+Rover,Dòng khác,24
+Jaguar,XJ series,24
+Mercedes Benz,M Class,24
+Hyundai,Eon,24
+Mazda,MX 6,24
+Mekong,Dòng khác,23
+Mitsubishi,L300,23
+Smart,Forfour,23
+Toyota,Tercel,23
+Isuzu,NMR,23
+Ford,Acononline,23
+Peugeot,206,22
+Renault,Dòng khác,22
+Chrysler,200,22
+Honda,Pilot,22
+HongQi,H9,22
+Infiniti,EX,22
+Fiat,Doblo,22
+Suzuki,Samirai,22
+Cadillac,Deville,22
+LandRover,Freelander,22
+Lifan,620,22
+Hyundai,Ioniq 5,21
+Peugeot,107,21
+Peugeot,508,21
+Daihatsu,Charade,20
+Toyota,Liteace,20
+Peugeot,205,20
+Nissan,Rogue,20
+Ssangyong,Dòng khác,20
+Chery,Dòng khác,20
+Nissan,Juke,20
+LandRover,Dòng khác,20
+Lifan,Dòng khác,20
+Zotye,T600,19
+Audi,Q3,19
+BMW,i8,19
+Mercedes Benz,CL Class,19
+Hyundai,Gold,19
+Dodge,Caravan,18
+Ssangyong,Korando,18
+Isuzu,QKR,18
+Toyota,Wish,18
+Chrysler,300C,18
+Honda,CR X,18
+Nissan,Altima,18
+Daihatsu,Hijet,18
+Lincoln,Navigator,18
+Ford,Wind star,17
+RAM,1500,17
+Ford,F 350,16
+BMW,M6,16
+Mazda,Tribute,16
+Volvo,940,16
+Mercedes Benz,190,16
+Jeep,Pickup,16
+Peugeot,305,16
+Mercedes Benz,GT Coupe,16
+Hyundai,Universe Xpress Luxury,16
+Changan,Dòng khác,16
+Mitsubishi,3000GT,16
+Toyota,Solara,16
+Acura,Legend,16
+Cadillac,CTS,15
+Toyota,Prius,15
+Isuzu,NPR,15
+SYM,T880,15
+Nissan,Maxima,15
+Chevrolet,Nubira,14
+Hyundai,Grandeur,14
+Honda,Vigor,14
+Peugeot,308,14
+Mekong,Paso,14
+Kia,Pregio,14
+Cadillac,SRX,13
+Ssangyong,Kyron,13
+Haima,3,13
+Dodge,Dòng khác,12
+Nissan,Sentra,12
+Volkswagen,Eos,12
+Volkswagen,Transporter,12
+Luxgen,U7,12
+Kia,Cadenza,12
+Toyota,IQ,12
+LandRover,Range Rover Vogue,12
+Peugeot,RCZ,12
+Jaguar,Dòng khác,11
+Ford,Aspire,11
+Suzuki,Balenno,11
+Isuzu,FVR,11
+Toyota,Vista,11
+Infiniti,QX80,11
+Baic,Dòng khác,11
+Hyundai,eMighty,11
+Hyundai,XG,11
+Haima,S7,11
+Mercedes Benz,Vito,11
+Porsche,Boxster,11
+BMW,X2,11
+Nissan,Pixo,11
+Nissan,Laurel,10
+Nissan,Stagea,10
+Hyundai,Centennial,10
+Aston Martin,Dòng khác,10
+Hyundai,Lantra,10
+Nissan,Qashqai,10
+Daewoo,Aranos,10
+Chrysler,LeBaron,10
+Bentley,Mulsanne,10
+Bentley,Dòng khác,10
+Fiat,Dòng khác,10
+Nissan,Pick up,10
+BMW,M3,10
+Proton,Perdana,10
+Smart,Roadster,10
+Kia,Concord,10
+Renault,Latitude,10
+Nissan,Prairie,10
+BYD,Dòng khác,10
+Kia,Magentis,9
+Mitsubishi,Colt,9
+Renault,Koleos,9
+Changan,Honor,9
+Baic,S3,9
+Toyota,Caldina,8
+Mitsubishi,Eclipse,8
+Ford,Focus C Max,8
+Dodge,Journey,8
+Chrysler,Grand Voyager,8
+Peugeot,404,8
+Nissan,Cefiro,8
+Cadillac,Escalade,8
+Rolls Royce,Dòng khác,8
+Rolls Royce,Phantom,8
+Kia,Potentia,8
+Mazda,MX 3,8
+Chevrolet,Astro,8
+Ford,Express,8
+Chevrolet,Lumina,7
+Lada,2108,7
+Isuzu,Midi,6
+Suzuki,Cultis wagon,6
+Ssangyong,XLV,6
+Mitsubishi,Libero,6
+Infiniti,QX,6
+Renault,Megane,6
+Ford,Fucion,6
+BMW,M couper,6
+Lamborghini,Dòng khác,6
+Chrysler,New Yorker,5
+Chevrolet,Cavalier,5
+Audi,A1,5
+Hyundai,Xcent,5
+Hyundai,Atos,5
+Toyota,Fj cruiser,5
+Lamborghini,Huracan,5
+Porsche,Taycan,5
+Mazda,929,5
+Mercedes Benz,B Class,5
+Toyota,Century,5
+Toyota,Cami,5
+Kia,Enterprise,5
+Chrysler,Cruiser,4
+Jaguar,XE,4
+Toyota,Aristo,4
+Chevrolet,S 10,4
+Chevrolet,SSR,4
+Chevrolet,Avanlanche,4
+Mitsubishi,Montero,4
+Ford,Ka,4
+Ssangyong,Family,3
+Toyota,Yaris Verso,3
+Samsung,SM3,3
+Lada,Dòng khác,3
+Subaru,Levorg,3
+Honda,NSX,3
+Mini,One,3
+Hyundai,Sota,3
+Hyundai,Trajet,2
+Mitsubishi,Challenger,2
+SYM,V11,2
+Luxgen,U6,2
+Hyundai,Tiburon,2
+Baic,Beijing X7,2
+Honda,Legend,2
+Proton,Dòng khác,2
+Renault,Sandero,2
+Kia,Sephia,2
+Buick,Encore GX,2
+Nissan,President,2
+Jaguar,F PACE,2
+Haima,7,2
+Luxgen,7 MPV,2
+Infiniti,Dòng khác,2
+Nissan,Elgrand,1
+Audi,S8,1
+BYD,F0,1
+BMW,Z4 Roadster,1
+BMW,i3,1
+Toyota,Sequoia,1
+Toyota,Tundra,1
+Toyota,Aurion,1
+Baic,X65,1
+Jeep,Liberty,1
+Subaru,Impreza,1
+Mitsubishi,Diamante,1
+Isuzu,Amigo,1
+Ford,Caravan,1
